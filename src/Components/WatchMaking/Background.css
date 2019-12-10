@@ -1,0 +1,31 @@
+#container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: absolute;
+}
+.sec-one{
+    background-color: #f9f7a0;
+    height: 100vh;
+    width: 5em;
+}
+.sec-two{ 
+    background-color: #dceef8;
+    height: 100vh;
+    width: 48em;
+}
+.sec-three{
+    height: 100vh;
+    width: 10em;
+}
+.sec-four{ 
+    background-color: #e7636e;
+    height: 100vh;
+    width: 20em;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    padding: 1em;
+}
+
